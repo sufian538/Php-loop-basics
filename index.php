@@ -40,19 +40,37 @@
 // $h = rand();
 // echo ($h);
 
-$a = "monday";
-switch($a)
+// $a = "monday";
+// switch($a)
 {
-    case "monday":
-        echo ($a."<br>"); 
-        break; 
-        case "tuesday":
-            echo ($a."<br>"); 
-            break;
-            case "wednesday":
-                echo ($a."<br>"); 
-                default:
-                echo("your number is incorrect");
+    // case "monday":
+    //     echo ($a."<br>"); 
+    //     break; 
+    //     case "tuesday":
+    //         echo ($a."<br>"); 
+    //         break;
+    //         case "wednesday":
+    //             echo ($a."<br>"); 
+    //             default:
+    //             echo("your number is incorrect");
+
     
 }
+
+// define("pi",3.142);
+// echo pi;
+
+// $a = 1;
+// while ($a=10)
+// {
+// echo "$a <br>";
+
+// $a =$a+1;
+// }
+
+$total = 0;
+$a = 1
+while ($a=10)
+$a = a+1;
+
 ?>
